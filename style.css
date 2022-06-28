@@ -1,0 +1,25 @@
+.content{
+    color: white;
+}
+
+.heading{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    color: #6c757d;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 8px white;
+    border-radius: 20px;
+    box-shadow: 15px 15px 15px black;
+}
